@@ -1,0 +1,212 @@
+[
+  {
+    "country": { "es": "Argentina", "en": "Argentina" },
+    "capital": { "es": "Buenos Aires", "en": "Buenos Aires" },
+    "currency": { "es": "Peso argentino", "en": "Argentine peso" },
+    "currency_code": "ARS",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "500.5 mil millones", "en": "500.5 billion" },
+    "population": "45,195,777",
+    "flag": "https://flagcdn.com/ar.svg"
+  },
+  {
+    "country": { "es": "Belice", "en": "Belize" },
+    "capital": { "es": "Belmopán", "en": "Belmopan" },
+    "currency": { "es": "Dólar beliceño", "en": "Belize dollar" },
+    "currency_code": "BZD",
+    "language": { "es": "Inglés", "en": "English" },
+    "gdp": { "es": "1.9 mil millones", "en": "1.9 billion" },
+    "population": "397,621",
+    "flag": "https://flagcdn.com/bz.svg"
+  },
+  {
+    "country": { "es": "Bolivia", "en": "Bolivia" },
+    "capital": { "es": "Sucre", "en": "Sucre" },
+    "currency": { "es": "Boliviano", "en": "Bolivian boliviano" },
+    "currency_code": "BOB",
+    "language": { "es": "Español, Quechua, Aymara", "en": "Spanish, Quechua, Aymara" },
+    "gdp": { "es": "40.3 mil millones", "en": "40.3 billion" },
+    "population": "11,673,021",
+    "flag": "https://flagcdn.com/bo.svg"
+  },
+  {
+    "country": { "es": "Brasil", "en": "Brazil" },
+    "capital": { "es": "Brasília", "en": "Brasilia" },
+    "currency": { "es": "Real", "en": "Brazilian real" },
+    "currency_code": "BRL",
+    "language": { "es": "Portugués", "en": "Portuguese" },
+    "gdp": { "es": "2.055 billones", "en": "2.055 trillion" },
+    "population": "211,049,527",
+    "flag": "https://flagcdn.com/br.svg"
+  },
+  {
+    "country": { "es": "Chile", "en": "Chile" },
+    "capital": { "es": "Santiago", "en": "Santiago" },
+    "currency": { "es": "Peso chileno", "en": "Chilean peso" },
+    "currency_code": "CLP",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "300.5 mil millones", "en": "300.5 billion" },
+    "population": "19,116,209",
+    "flag": "https://flagcdn.com/cl.svg"
+  },
+  {
+    "country": { "es": "Colombia", "en": "Colombia" },
+    "capital": { "es": "Bogotá", "en": "Bogota" },
+    "currency": { "es": "Peso colombiano", "en": "Colombian peso" },
+    "currency_code": "COP",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "330.2 mil millones", "en": "330.2 billion" },
+    "population": "50,882,891",
+    "flag": "https://flagcdn.com/co.svg"
+  },
+  {
+    "country": { "es": "Costa Rica", "en": "Costa Rica" },
+    "capital": { "es": "San José", "en": "San Jose" },
+    "currency": { "es": "Colón costarricense", "en": "Costa Rican colon" },
+    "currency_code": "CRC",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "64.1 mil millones", "en": "64.1 billion" },
+    "population": "5,094,114",
+    "flag": "https://flagcdn.com/cr.svg"
+  },
+  {
+    "country": { "es": "Cuba", "en": "Cuba" },
+    "capital": { "es": "La Habana", "en": "Havana" },
+    "currency": { "es": "Peso cubano", "en": "Cuban peso" },
+    "currency_code": "CUP",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "100.0 mil millones", "en": "100.0 billion" },
+    "population": "11,326,616",
+    "flag": "https://flagcdn.com/cu.svg"
+  },
+  {
+    "country": { "es": "Ecuador", "en": "Ecuador" },
+    "capital": { "es": "Quito", "en": "Quito" },
+    "currency": { "es": "Dólar estadounidense", "en": "United States dollar" },
+    "currency_code": "USD",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "108.5 mil millones", "en": "108.5 billion" },
+    "population": "17,643,060",
+    "flag": "https://flagcdn.com/ec.svg"
+  },
+  {
+    "country": { "es": "El Salvador", "en": "El Salvador" },
+    "capital": { "es": "San Salvador", "en": "San Salvador" },
+    "currency": { "es": "Colón salvadoreño", "en": "Salvadoran colón" },
+    "currency_code": "SVC",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "26.0 mil millones", "en": "26.0 billion" },
+    "population": "6,486,205",
+    "flag": "https://flagcdn.com/sv.svg"
+  },
+  {
+    "country": { "es": "Guatemala", "en": "Guatemala" },
+    "capital": { "es": "Ciudad de Guatemala", "en": "Guatemala City" },
+    "currency": { "es": "Quetzal", "en": "Guatemalan quetzal" },
+    "currency_code": "GTQ",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "77.0 mil millones", "en": "77.0 billion" },
+    "population": "17,915,568",
+    "flag": "https://flagcdn.com/gt.svg"
+  },
+  {
+    "country": { "es": "Guyana", "en": "Guyana" },
+    "capital": { "es": "Georgetown", "en": "Georgetown" },
+    "currency": { "es": "Dólar guyanés", "en": "Guyanese dollar" },
+    "currency_code": "GYD",
+    "language": { "es": "Inglés", "en": "English" },
+    "gdp": { "es": "4.5 mil millones", "en": "4.5 billion" },
+    "population": "786,552",
+    "flag": "https://flagcdn.com/gy.svg"
+  },
+  {
+    "country": { "es": "Honduras", "en": "Honduras" },
+    "capital": { "es": "Tegucigalpa", "en": "Tegucigalpa" },
+    "currency": { "es": "Lempira", "en": "Honduran lempira" },
+    "currency_code": "HNL",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "25.0 mil millones", "en": "25.0 billion" },
+    "population": "9,904,607",
+    "flag": "https://flagcdn.com/hn.svg"
+  },
+  {
+    "country": { "es": "México", "en": "Mexico" },
+    "capital": { "es": "Ciudad de México", "en": "Mexico City" },
+    "currency": { "es": "Peso mexicano", "en": "Mexican peso" },
+    "currency_code": "MXN",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "1.222 billones", "en": "1.222 trillion" },
+    "population": "126,190,788",
+    "flag": "https://flagcdn.com/mx.svg"
+  },
+  {
+    "country": { "es": "Nicaragua", "en": "Nicaragua" },
+    "capital": { "es": "Managua", "en": "Managua" },
+    "currency": { "es": "Córdoba", "en": "Nicaraguan córdoba" },
+    "currency_code": "NIO",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "13.0 mil millones", "en": "13.0 billion" },
+    "population": "6,624,554",
+    "flag": "https://flagcdn.com/ni.svg"
+  },
+  {
+    "country": { "es": "Panamá", "en": "Panama" },
+    "capital": { "es": "Ciudad de Panamá", "en": "Panama City" },
+    "currency": { "es": "Balboa", "en": "Panamanian balboa" },
+    "currency_code": "PAB",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "66.5 mil millones", "en": "66.5 billion" },
+    "population": "4,314,768",
+    "flag": "https://flagcdn.com/pa.svg"
+  },
+  {
+    "country": { "es": "Paraguay", "en": "Paraguay" },
+    "capital": { "es": "Asunción", "en": "Asuncion" },
+    "currency": { "es": "Guaraní", "en": "Paraguayan guarani" },
+    "currency_code": "PYG",
+    "language": { "es": "Español, Guaraní", "en": "Spanish, Guarani" },
+    "gdp": { "es": "19.0 mil millones", "en": "19.0 billion" },
+    "population": "6,811,240",
+    "flag": "https://flagcdn.com/py.svg"
+  },
+  {
+    "country": { "es": "Perú", "en": "Peru" },
+    "capital": { "es": "Lima", "en": "Lima" },
+    "currency": { "es": "Nuevo sol", "en": "Peruvian sol" },
+    "currency_code": "PEN",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "226.8 mil millones", "en": "226.8 billion" },
+    "population": "32,971,854",
+    "flag": "https://flagcdn.com/pe.svg"
+  },
+  {
+    "country": { "es": "República Dominicana", "en": "Dominican Republic" },
+    "capital": { "es": "Santo Domingo", "en": "Santo Domingo" },
+    "currency": { "es": "Peso dominicano", "en": "Dominican peso" },
+    "currency_code": "DOP",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "94.24 mil millones", "en": "94.24 billion" },
+    "population": "10,847,910",
+    "flag": "https://flagcdn.com/do.svg"
+  },
+  {
+    "country": { "es": "Uruguay", "en": "Uruguay" },
+    "capital": { "es": "Montevideo", "en": "Montevideo" },
+    "currency": { "es": "Peso uruguayo", "en": "Uruguayan peso" },
+    "currency_code": "UYU",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "73.60 mil millones", "en": "73.60 billion" },
+    "population": "3,496,016",
+    "flag": "https://flagcdn.com/uy.svg"
+  },
+  {
+    "country": { "es": "Venezuela", "en": "Venezuela" },
+    "capital": { "es": "Caracas", "en": "Caracas" },
+    "currency": { "es": "Bolívar", "en": "Venezuelan bolivar" },
+    "currency_code": "VES",
+    "language": { "es": "Español", "en": "Spanish" },
+    "gdp": { "es": "482.36 mil millones", "en": "482.36 billion" },
+    "population": "28,704,954",
+    "flag": "https://flagcdn.com/ve.svg"
+  }
+]
