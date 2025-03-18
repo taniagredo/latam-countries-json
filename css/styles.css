@@ -1,0 +1,118 @@
+/* Reset styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body */
+body {
+  font-family: 'Orbitron', sans-serif;
+  background: #010807;
+  color: #fff;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  text-align: center;
+  background-color: black;
+  padding: 20px 0;
+}
+
+header h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+  color: #16d1ac;
+  text-shadow: 0 0 10px rgba(22, 160, 133, 0.8);
+}
+
+/* Contenedor de los controles (filtro, idioma, búsqueda) */
+.controls {
+  display: flex;
+  justify-content: center; /* Centrar los controles */
+  align-items: center; /* Alinear verticalmente los controles */
+  margin: 20px auto;
+  width: 80%; /* Ajusta el ancho para que los controles no se estiren demasiado */
+  max-width: 1000px; /* Limita el ancho máximo */
+  gap: 15px; /* Reducir el espacio entre los controles */
+}
+
+.filters, .language-selector, .search {
+  display: flex;
+  align-items: center;
+  width: auto; /* Deja que cada control tenga el tamaño necesario */
+}
+
+.filters select, .language-selector select, .search input {
+  padding: 3px 7px; /* Reducir el padding para hacerlo más pequeño */
+  margin-left: 10px;
+  border: 2px solid #ccc; /* Mismo borde que las cajas de los países */
+  border-radius: 8px; /* Mismo radio que las cajas de los países */
+  font-size: 14px; /* Reducir el tamaño de fuente */
+  width: auto; /* Asegura que el campo ocupe solo el espacio necesario */
+  min-width: 100px; /* Un tamaño mínimo para evitar que se hagan demasiado pequeños */
+}
+
+/* Cards de país */
+.country-card {
+  background-color: #ffffff;
+  border: 2px solid #16a085;
+  box-shadow: 0 0 20px #16d1ac;
+  padding: 20px;
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.country-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 30px #16d1ac;
+}
+
+.country-card h2 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: #000000;
+}
+
+.country-card p {
+  text-align: left;
+  font-size: 1.1rem;
+  color: #7f8c8d;
+}
+
+.country-card i {
+  color: #16d1ac;
+  margin-right: 10px;
+}
+
+.country-card img {
+  display: block;
+  margin: 0 auto; /* Esto centra la imagen horizontalmente */
+  max-width: 100%; /* Para asegurarse de que no se desborde */
+  height: auto; /* Mantiene la proporción original */
+}
+
+/* Contenedor de los países */
+#countries-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+  gap: 20px;
+  margin: 20px auto;
+  width: 90%;
+  max-width: 1200px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: black;
+  color: #fff;
+  font-size: 1rem;
+}
+
+footer .copyright {
+  font-size: 0.9rem;
+  color: #7f8c8d;
+}
