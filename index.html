@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Información de Países Latinoamericanos</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <h1 data-translate="headerTitle">Países Latinoamericanos</h1>
+        <p data-translate="headerDescription">Descubre información sobre los países de América Latina.</p>        
+    </header>
+
+    <div class="controls">
+        <!-- Selector de Idioma -->
+        <div class="language-selector">
+            <label for="language" data-translate="language">Idioma:</label>
+            <select id="language">
+                <option value="es" selected>Español</option>
+                <option value="en">English</option>
+            </select>
+        </div>
+
+        <!-- Filtro de PIB y Población -->
+        <div class="filters">
+            <label for="filter" id="filter-label" data-translate="filterLabel">Filtrar por:</label>
+            <select id="filter">
+                <option value="" disabled selected data-translate="selectFilter">Selecciona un filtro</option>
+                <option value="gdp" data-translate="gdp">PIB</option>
+                <option value="population" data-translate="population">Población</option>
+            </select>                       
+        </div>
+
+        <!-- Caja de Búsqueda -->
+        <div class="search">
+            <label for="search" data-translate="search">Buscar país:</label>
+            <input type="text" id="search" data-translate-placeholder="searchText" placeholder="Buscar país...">            
+        </div>
+    </div>
+
+    <div id="countries-container">
+        <!-- Aquí se mostrarán las tarjetas de países -->
+        </div>
+    </div>
+
+    <footer>
+        <p class="copyright">&copy; 2025 Tania Agredo. Todos los derechos reservados.</p>
+    </footer>        
+
+    <script src="index.js"></script>
+</body>
+</html>
