@@ -46,9 +46,9 @@ Here is a sample of how the `latam.json` file is structured:
 ]
 ```
 Here is a sample of how the project looks when running the local server and using the filtering and search functionalities:
-<video src="assets/preview.webm" controls width="700">
-  Your browser does not support the video tag.
-</video>
+
+[![Watch the video](assets/preview.png)](https://imgur.com/a/ocI8DTN)
+
 
 **Local Server URL:**
 
