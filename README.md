@@ -47,7 +47,7 @@ Here is a sample of how the `latam.json` file is structured:
 ```
 Here is a sample of how the project looks when running the local server and using the filtering and search functionalities:
 
-[![Watch the video](assets/preview.png)](https://imgur.com/a/ocI8DTN)
+[![Watch the video](assets/img.png)](https://imgur.com/a/ocI8DTN)
 
 
 **Local Server URL:**
